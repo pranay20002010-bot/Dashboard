@@ -1,0 +1,1 @@
+"""Vika Wealth Macro Terminal."""
